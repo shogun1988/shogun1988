@@ -2,9 +2,9 @@
 
 ## 🧑‍💻 Over Mij
 
-Ik ben een klantgerichte en leergierige **IT Support Engineer** met een passie voor eindgebruikersondersteuning, troubleshooting en informatieveiligheid. Met ervaring in **Microsoft 365**, **ServiceNow**, **remote support**, en **Active Directory**, streef ik naar een veilige en efficiënte ICT-omgeving.
+Ik ben een klantgerichte en leergierige **IT Support Engineer** met een passie voor eindgebruikersondersteuning, troubleshooting en informatieveiligheid. Met ervaring in **Microsoft 365**, **ServiceNow**, **Remote Support**, en **Active Directory**, streef ik naar een veilige en efficiënte ICT-omgeving.
 
-Momenteel volg ik de opleiding **ICT Support Engineer** aan Syntra Mechelen (2024–2025) en heb ik stage gelopen bij **FOD Financiën** als 2nd Line Endpoint Support.
+Momenteel volg ik de opleiding **ICT Support Engineer** aan Syntra Mechelen (2024–2025) en heb ik stage gelopen bij **FOD Financiën** als ICT Support Engineer.
 
 ---
 
