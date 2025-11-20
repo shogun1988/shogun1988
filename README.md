@@ -24,12 +24,12 @@ Currently pursuing an **ICT Support Engineer** certification at Syntra Mechelen 
 
 ## 🧪 Internship – FOD Financiën (2025)
 
-- First point of contact for IT-related issues via remote desktop  
-- Incident resolution in Windows environments using ServiceNow  
-- Troubleshooting in Office365, OneDrive, and Azure  
-- Working with SCCM and Active Directory  
-- Creating documentation and user manuals  
-- Clear and professional communication with end users  
+- First point of contact for **IT-related issues** via remote desktop  
+- **Incident** resolution in Windows environments using ServiceNow  
+- **Troubleshooting** in Office365, OneDrive, and Azure  
+- Working with **SCCM** and **Active Directory**  
+- Creating **documentation** and user **manuals**  
+- Clear and **professional** communication with end users  
 
 ---
 
@@ -58,7 +58,7 @@ Currently pursuing an **ICT Support Engineer** certification at Syntra Mechelen 
 
 ---
 
-> 📌 **Currently seeking a role as IT Service Desk Support**, where I can apply my technical expertise and customer service skills to contribute to a secure and reliable IT environment.
+> 📌 **Currently seeking a role as IT Support Engineer**, where I can apply my **technical** expertise and customer service skills to contribute to a **secure** and reliable IT environment.
 
 
 
