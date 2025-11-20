@@ -2,9 +2,9 @@
 
 ## 🧑‍💻 About Me
 
-I'm a customer-focused and eager-to-learn **IT Support Engineer** with a passion for end-user support, troubleshooting, and cybersecurity. I have hands-on experience with **Microsoft 365**, **ServiceNow**, **remote desktop support**, and **Active Directory**, and I'm committed to building secure and efficient IT environments.
+I'm a customer-focused and eager-to-learn **IT Support Engineer** with a passion for end-user support, troubleshooting, and cybersecurity. I have hands-on experience with **Microsoft 365**, **ServiceNow**, **Remote Desktop Support**, and **Active Directory**, and I'm committed to building secure and efficient IT environments.
 
-Currently pursuing an **ICT Support Engineer** certification at Syntra Mechelen (2024–2025), I recently completed a 2nd Line Endpoint Support internship at **FOD Financiën**.
+Currently pursuing an **ICT Support Engineer** certification at Syntra Mechelen (2024–2025), I recently completed a *ICT Support Engineer* internship at **FOD Financiën**.
 
 ---
 
