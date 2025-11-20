@@ -1,64 +1,64 @@
-# 👋 Welkom op mijn GitHub – Vandenhoven Nokah
+# 👋 Welcome to My GitHub – Vandenhoven Nokah
 
-## 🧑‍💻 Over Mij
+## 🧑‍💻 About Me
 
-Ik ben een klantgerichte en leergierige **IT Support Engineer** met een passie voor eindgebruikersondersteuning, troubleshooting en informatieveiligheid. Met ervaring in **Microsoft 365**, **ServiceNow**, **Remote Support**, en **Active Directory**, streef ik naar een veilige en efficiënte ICT-omgeving.
+I'm a customer-focused and eager-to-learn **IT Support Engineer** with a passion for end-user support, troubleshooting, and cybersecurity. I have hands-on experience with **Microsoft 365**, **ServiceNow**, **remote desktop support**, and **Active Directory**, and I'm committed to building secure and efficient IT environments.
 
-Momenteel volg ik de opleiding **ICT Support Engineer** aan Syntra Mechelen (2024–2025) en heb ik stage gelopen bij **FOD Financiën** als ICT Support Engineer.
+Currently pursuing an **ICT Support Engineer** certification at Syntra Mechelen (2024–2025), I recently completed a 2nd Line Endpoint Support internship at **FOD Financiën**.
 
 ---
 
-## 🔧 Technische Vaardigheden
+## 🔧 Technical Skills
 
 - **Microsoft 365**, Azure, OneDrive, SharePoint  
 - **Windows Server 2025**, Windows 10/11, Android  
 - **Active Directory**, Remote Desktop Services  
-- **Ticketing**: ServiceNow  
-- **Softwaredistributie**: SCCM  
-- **Netwerken**: Cisco, Unifi, netwerkprotocollen  
+- **Ticketing Systems**: ServiceNow  
+- **Software Deployment**: SCCM  
+- **Networking**: Cisco, Unifi, network protocols  
 - **Scripting**: Python, PowerShell  
 - **Tools**: Postman, WordPress  
-- **Homelab**: Hyper-V, AD, RDS, printserver  
+- **Homelab Projects**: Hyper-V, AD, RDS, print server  
 
 ---
 
-## 🧪 Stage – FOD Financiën (2025)
+## 🧪 Internship – FOD Financiën (2025)
 
-- IT-vragen oplossen via remote desktop  
-- Incidentregistratie in ServiceNow  
-- Troubleshooting in Office365, OneDrive, Azure  
-- Werken met SCCM en Active Directory  
-- Documentatie en gebruikershandleidingen opstellen  
-- Heldere communicatie in professionele context  
+- First point of contact for IT-related issues via remote desktop  
+- Incident resolution in Windows environments using ServiceNow  
+- Troubleshooting in Office365, OneDrive, and Azure  
+- Working with SCCM and Active Directory  
+- Creating documentation and user manuals  
+- Clear and professional communication with end users  
 
 ---
 
-## 📚 Opleidingen
+## 📚 Education
 
 - **ICT Support Engineer** – Syntra Mechelen (2024–2025)  
-- **Portretfotografie** – Syntra Antwerpen (2019–2020)  
+- **Portrait Photography** – Syntra Antwerp (2019–2020)  
 
 ---
 
 ## 🌐 Contact
 
-- 📍 Sint-Niklaas, België  
+- 📍 Sint-Niklaas, Belgium  
 - 📞 +32 485 71 78 36  
 - 📧 vandenhoven_nokah@hotmail.com  
 - 🔗 [GitHub: shogun1988](https://github.com/shogun1988)  
 
 ---
 
-## 💡 Extra
+## 💡 Extras
 
-- Actief bezig met online IT-cursussen  
-- Persoonlijke projecten met Raspberry Pi en Cisco Packet Tracer  
-- Grote interesse in cybersecurity  
-- Hobby: wielrennen 🚴  
+- Actively learning through online IT courses  
+- Personal projects with Raspberry Pi and Cisco Packet Tracer  
+- Strong interest in cybersecurity and information security  
+- Hobby: cycling 🚴  
 
 ---
 
-> 📌 **Op zoek naar een rol als Servicedeskmedewerker IT** waar ik mijn technische kennis en klantgerichte aanpak kan inzetten om bij te dragen aan een stabiele en veilige ICT-omgeving.
+> 📌 **Currently seeking a role as IT Service Desk Support**, where I can apply my technical expertise and customer service skills to contribute to a secure and reliable IT environment.
 
 
 
