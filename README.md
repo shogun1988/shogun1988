@@ -1,4 +1,4 @@
-# Explore my github My GitHub – Vandenhoven Nokah
+# Explore My GitHub – Vandenhoven Nokah
 
 ## 🧑‍💻 About Me
 
