@@ -53,7 +53,9 @@ Currently pursuing an **ICT Support Engineer** certification at Syntra Mechelen 
 
 - Actively learning through online IT courses  
 - Personal projects with Raspberry Pi and Cisco Packet Tracer  
-- Strong interest in cybersecurity and information security  
+- Strong interest in cybersecurity and information security
+- postman (API 30 days of developer)
+   
 - Hobby: cycling 🚴  
 
 ---
