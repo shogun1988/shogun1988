@@ -18,7 +18,8 @@ Currently pursuing an **ICT Support Engineer** certification at Syntra Mechelen 
 - **Networking**: Cisco, Unifi, network protocols, (pfsense, sophos, palo alto, ..)  
 - **Scripting**: Python, PowerShell  
 - **Tools**: Postman, WordPress  
-- **Homelab Projects**: Hyper-V, AD, RDS, print server  
+- **Homelab Projects**: Hyper-V, AD, RDS, print server
+- **FASTAPI**: learning api's for connecting multiple services 
 
 ---
 
